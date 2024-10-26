@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button, View, Text, ImageBackground } from 'react-native';
 
-import errou from '../../assets/errou.jpg';
+import errou from '../../assets/ImagemErrou.png';
 import estilo from './estilo';
 
 const TelaRespostaErrada = (props) => {
