@@ -10,12 +10,17 @@
       "backgroundColor": "#03989e"
     },
     "android": {
-      "package": "com.devup.desafiotabuada",
+      "package": "com.ticokazuya.desafiomultiplicar",
       "versionCode": 1
     },
     "ios": {
-      "bundleIdentifier": "com.devup.desafiotabuada",
+      "bundleIdentifier": "com.ticokazuya.desafiomultiplicar",
       "buildNumber": "1.0.0"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8980ff84-6e85-40d6-bbf8-0e9a6fe07699"
+      }
     }
   }
 }
