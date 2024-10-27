@@ -2,7 +2,7 @@ import React from 'react';
 import { ImageBackground, View, Button } from 'react-native';
 
 import estilo from './estilo';
-import tabuada from '../../assets/tabuada.jpeg';
+import tabuada from '../../assets/tabuada.jpg';
 
 const TelaTabuada = (props) => {
   const voltar = () => {
